@@ -2,5 +2,5 @@
 
 2. Метод PrintArray - выводит результат на экран;
 
-[Решение](Final/Program.cs)
-[Алгоритм](Block.drawio)
+[Решение](Final/Program.cs);
+[Алгоритм](Block.drawio);
